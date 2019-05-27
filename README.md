@@ -1,0 +1,1 @@
+# My accepted spoj solutions
